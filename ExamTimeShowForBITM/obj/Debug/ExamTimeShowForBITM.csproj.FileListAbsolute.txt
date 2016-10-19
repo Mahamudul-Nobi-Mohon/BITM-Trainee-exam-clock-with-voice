@@ -1,0 +1,17 @@
+c:\users\mahamudul\documents\visual studio 2013\Projects\ExamTimpeShowForBITM\ExamTimpeShowForBITM\bin\Debug\ExamTimpeShowForBITM.exe.config
+c:\users\mahamudul\documents\visual studio 2013\Projects\ExamTimpeShowForBITM\ExamTimpeShowForBITM\obj\Debug\ExamTimpeShowForBITM.exe
+c:\users\mahamudul\documents\visual studio 2013\Projects\ExamTimpeShowForBITM\ExamTimpeShowForBITM\obj\Debug\ExamTimpeShowForBITM.pdb
+c:\users\mahamudul\documents\visual studio 2013\Projects\ExamTimpeShowForBITM\ExamTimpeShowForBITM\bin\Debug\ExamTimpeShowForBITM.exe
+c:\users\mahamudul\documents\visual studio 2013\Projects\ExamTimpeShowForBITM\ExamTimpeShowForBITM\bin\Debug\ExamTimpeShowForBITM.pdb
+c:\users\mahamudul\documents\visual studio 2013\Projects\ExamTimpeShowForBITM\ExamTimpeShowForBITM\obj\Debug\ExamTimpeShowForBITM.Form1.resources
+c:\users\mahamudul\documents\visual studio 2013\Projects\ExamTimpeShowForBITM\ExamTimpeShowForBITM\obj\Debug\ExamTimpeShowForBITM.Properties.Resources.resources
+c:\users\mahamudul\documents\visual studio 2013\Projects\ExamTimpeShowForBITM\ExamTimpeShowForBITM\obj\Debug\ExamTimeShowForBITM.csproj.GenerateResource.Cache
+C:\Users\Mahamudul\Documents\Visual Studio 2013\Projects\ExamTimeShowForBITM\ExamTimeShowForBITM\bin\Debug\ExamTimpeShowForBITM.exe.config
+C:\Users\Mahamudul\Documents\Visual Studio 2013\Projects\ExamTimeShowForBITM\ExamTimeShowForBITM\obj\Debug\ExamTimpeShowForBITM.exe
+C:\Users\Mahamudul\Documents\Visual Studio 2013\Projects\ExamTimeShowForBITM\ExamTimeShowForBITM\obj\Debug\ExamTimpeShowForBITM.pdb
+C:\Users\Mahamudul\Documents\Visual Studio 2013\Projects\ExamTimeShowForBITM\ExamTimeShowForBITM\bin\Debug\ExamTimpeShowForBITM.exe
+C:\Users\Mahamudul\Documents\Visual Studio 2013\Projects\ExamTimeShowForBITM\ExamTimeShowForBITM\bin\Debug\ExamTimpeShowForBITM.pdb
+C:\Users\Mahamudul\Documents\Visual Studio 2013\Projects\ExamTimeShowForBITM\ExamTimeShowForBITM\obj\Debug\ExamTimpeShowForBITM.Form1.resources
+C:\Users\Mahamudul\Documents\Visual Studio 2013\Projects\ExamTimeShowForBITM\ExamTimeShowForBITM\obj\Debug\ExamTimpeShowForBITM.Properties.Resources.resources
+C:\Users\Mahamudul\Documents\Visual Studio 2013\Projects\ExamTimeShowForBITM\ExamTimeShowForBITM\obj\Debug\ExamTimeShowForBITM.csproj.GenerateResource.Cache
+C:\Users\Mahamudul\Documents\Visual Studio 2013\Projects\ExamTimeShowForBITM\ExamTimeShowForBITM\obj\Debug\ExamTimeShowForBITM.csprojResolveAssemblyReference.cache
